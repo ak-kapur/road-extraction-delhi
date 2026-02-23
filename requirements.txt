@@ -1,0 +1,15 @@
+torch
+torchvision
+segmentation-models-pytorch
+rasterio
+geopandas
+shapely
+osmnx
+scikit-image
+earthengine-api
+geemap
+folium
+matplotlib
+tqdm
+numpy
+pandas
