@@ -3,3 +3,15 @@ outputs/unet_road.pth
 __pycache__/
 *.pyc
 .env
+data/
+outputs/unet_road.pth
+outputs/masks/*.tif
+*.tif
+*.pth
+*.shp
+*.dbf
+*.sbn
+*.sbx
+*.shx
+*.cpg
+*.prj
