@@ -1,0 +1,5 @@
+data/raw/
+outputs/unet_road.pth
+__pycache__/
+*.pyc
+.env
